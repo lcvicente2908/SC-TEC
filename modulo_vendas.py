@@ -230,3 +230,4 @@ def exportar_resultados(metricas, clientes, pasta_saida="outputs"):
         for cat, rec in metricas["por_categoria"].items():
             escritor.writerow([cat, rec])
     print(f"[OK] Arquivo CSV exportado em: {caminho_csv}")
+    print(f"[OK] validando CSV exportado em: {caminho_csv}")

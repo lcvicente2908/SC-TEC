@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 Categoria,Receita Total
 Acessórios,437722.41
 Eletrônicos,426794.12
 Celulares,401197.68
+=======
+Tipo,Nome,Receita Total (R$)
+Geral,Faturamento Global,1265714.21
+Categoria,Acessórios,437722.41
+Categoria,Celulares,401197.68
+Categoria,Eletrônicos,426794.12
+Região,Centro-Oeste,141552.51
+Região,Nordeste,199451.81
+Região,Norte,327379.45
+Região,Sudeste,319485.96
+Região,Sul,277844.48
+>>>>>>> 7d835a1 (Projeto atualizado)

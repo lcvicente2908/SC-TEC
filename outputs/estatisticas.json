@@ -1,5 +1,6 @@
 {
     "metricas_gerais": {
+<<<<<<< HEAD
         "total_geral": 1265714.21,
         "por_categoria": {
             "Acessórios": 437722.41,
@@ -13,6 +14,22 @@
             "Sul": 277844.48,
             "Centro-Oeste": 141552.51
         }
+=======
+        "faturamento_global": 1265714.21,
+        "receita_por_categoria": {
+            "Acessórios": 437722.41,
+            "Celulares": 401197.68,
+            "Eletrônicos": 426794.12
+        },
+        "receita_por_regiao": {
+            "Centro-Oeste": 141552.51,
+            "Nordeste": 199451.81,
+            "Norte": 327379.45,
+            "Sudeste": 319485.96,
+            "Sul": 277844.48
+        },
+        "quantidade_vendas_validas": 133
+>>>>>>> 7d835a1 (Projeto atualizado)
     },
     "clientes": {
         "Cliente_003": {
@@ -135,5 +152,45 @@
             "total_gasto": 61933.01,
             "segmento": "Ouro"
         }
+<<<<<<< HEAD
+=======
+    },
+    "top_clientes_por_segmento": {
+        "Ouro": [
+            {
+                "cliente": "Cliente_006",
+                "total_gasto": 83510.02,
+                "segmento": "Ouro"
+            },
+            {
+                "cliente": "Cliente_011",
+                "total_gasto": 72738.12,
+                "segmento": "Ouro"
+            },
+            {
+                "cliente": "Cliente_019",
+                "total_gasto": 66964.71,
+                "segmento": "Ouro"
+            },
+            {
+                "cliente": "Cliente_017",
+                "total_gasto": 61933.01,
+                "segmento": "Ouro"
+            },
+            {
+                "cliente": "Cliente_009",
+                "total_gasto": 61523.27,
+                "segmento": "Ouro"
+            }
+        ],
+        "Prata": [
+            {
+                "cliente": "Cliente_023",
+                "total_gasto": 5130.33,
+                "segmento": "Prata"
+            }
+        ],
+        "Bronze": []
+>>>>>>> 7d835a1 (Projeto atualizado)
     }
 }
